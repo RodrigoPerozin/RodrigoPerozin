@@ -1,13 +1,20 @@
 ### Hey, nice to see you here 👋
 
-- 🔭 I’m currently working on System Development
-- 🌱 I’m currently learning Golang, React and Node.js
-<a href="https://react.dev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" target="_blank" width="50px" height="50px"></a>
-- 👯 I’m looking to collaborate on any project
-- 🤔 I’m looking for help with job opportunities
-- 💬 Ask me about LGPD and Hacking
-- ⚡ Fun fact: I like to create innovative projects
-- 🎮 I like to stream games sometimes
+<h3>Somethings about me:</h3>
+
+<ul>
+  <li>🔭 I’m currently working on System Development</li>
+  <li>👯 I’m looking to collaborate on any project</li>
+  <li>🤔 I’m looking for help with job opportunities</li>
+  <li>💬 Ask me about LGPD and Hacking</li>
+  <li>⚡ Fun fact: I like to create innovative projects</li>
+  <li>🎮 I like to stream games sometimes</li>
+</ul>
+
+### I’m currently learning:
+<a href="https://nodejs.org/en/about" target="_blank"><img src="https://cdn.freebiesupply.com/logos/large/2x/nodejs-1-logo-png-transparent.png" target="_blank" width="80px" height="50px"></a>
+<a href="https://react.dev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" target="_blank" width="60px" height="50px"></a>
+<a href="https://go.dev/" target="_blank"><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" target="_blank" width="60px" height="50px"></a>
 
 ## Links:
 
