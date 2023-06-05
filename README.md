@@ -71,6 +71,8 @@
 <a href="https://react.dev/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" target="_blank" width="60px" height="50px"></a>
 <a href="https://go.dev/" target="_blank"><img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" target="_blank" width="60px" height="50px"></a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rodrigoperozin&show_icons=true&theme=tokyonight)
+
 ## Links:
 
 <div>
